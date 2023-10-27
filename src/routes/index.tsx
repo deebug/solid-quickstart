@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <main>
       <Title>Strategea</Title>
-      <img src="strategea.svg"></img>
+      <img src="strategea.svg"></img><br/>
       <a href="mailto:info@strategea.be">contact</a>
     </main>
   );
