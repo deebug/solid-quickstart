@@ -7,7 +7,7 @@ export default function Home() {
     <main>
       <Title>Strategea</Title>
       <h1>Strategea</h1>
-      
+      <img src="strategea.svg"></img>
       
     </main>
   );
