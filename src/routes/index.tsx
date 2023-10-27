@@ -1,4 +1,5 @@
-import { Title } from "Strategea";
+import { Title } from "solid-start";
+
 
 
 export default function Home() {
