@@ -66,7 +66,7 @@ body {
 a {
   text-decoration: none;
   color: #18272F;
-  font-weight: 700;
+  font-weight: light;
   vertical-align: top;
 }
 
@@ -90,6 +90,7 @@ p {
   max-width: 14rem;
   margin: 2rem auto;
   line-height: 1.35;
+  font-weight:light;
 }
 
 @media (min-width: 480px) {
